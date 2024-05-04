@@ -9,3 +9,5 @@ The website is designed for a conservation site and was implemented to have a cl
 design and easy to navigate. The project allowed us to improve our collaboration skills 
 and become more proficient with `Git` and `GitHub` as well as learn more advanced `HTML`, `CSS`,
 and `JavaScript.` We also explored new API's such as `Cloudinary`, `FormSpree` and others. 
+
+![Uploading Capture2.PNG…]()
