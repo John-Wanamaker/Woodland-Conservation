@@ -10,4 +10,5 @@ design and easy to navigate. The project allowed us to improve our collaboration
 and become more proficient with `Git` and `GitHub` as well as learn more advanced `HTML`, `CSS`,
 and `JavaScript.` We also explored new API's such as `Cloudinary`, `FormSpree` and others. 
 
-![Uploading Capture2.PNG…]()
+![Capture2](https://github.com/John-Wanamaker/Woodland-Conservation-Website/assets/144941836/63ee86a1-66de-41e0-b570-50e399d700fe)
+
